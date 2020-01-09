@@ -1,0 +1,25 @@
+body {
+  background-color: lightgray;
+}
+
+.message--container {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.innerBox--message--text {
+  padding: .7rem 1rem .7rem 1rem;
+  background-color: white;
+  border-radius: 1.8rem;
+}
+
+.innerBox--message--user {
+  padding: .7rem 1rem .7rem 1rem;
+  border-radius: 1.8rem;
+  color:white;
+  margin-left: 10px;
+}
+
+.f-end {
+  justify-content: flex-end;
+}
